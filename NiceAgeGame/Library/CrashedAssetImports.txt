@@ -1,0 +1,1 @@
+Assets/Low_poly_styled_rocks/Examples/Imported/Textures/environment_map.hdr
