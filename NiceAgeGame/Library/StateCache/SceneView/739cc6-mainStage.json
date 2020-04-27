@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":0.0,"y":0.0,"z":0.0},"rotation":{"x":-0.0023001721128821375,"y":0.9967943429946899,"z":-0.07370712608098984,"w":-0.031109221279621125},"size":14.453591346740723,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":-2.840790271759033,"y":0.2595713138580322,"z":2.46710205078125},"rotation":{"x":0.23962678015232087,"y":-0.18056140840053559,"z":0.04514060914516449,"w":0.9529292583465576},"size":52.06599426269531,"orthographic":false}
+>>>>>>> parent of 518a312... whitebox edit
