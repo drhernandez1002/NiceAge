@@ -1,1 +1,1 @@
-Assets/Low_poly_styled_rocks/Examples/Imported/Textures/environment_map.hdr
+Assets/Low_poly_styled_rocks/Assets/Imported/Models/rock_g.fbx
