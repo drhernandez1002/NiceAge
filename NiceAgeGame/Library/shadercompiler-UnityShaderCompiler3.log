@@ -1,4 +1,7 @@
 Base path: '/Applications/Unity/Unity.app/Contents', plugins path '/Applications/Unity/PlaybackEngines'
 Cmd: initializeCompiler
+<<<<<<< HEAD
 
 Quitting shader compiler process
+=======
+>>>>>>> 509454fbc6ac26d0ef7440b911b4096620553c81

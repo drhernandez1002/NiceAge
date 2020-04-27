@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/MaddyScene.unity
+=======
+- path: Assets/Scenes/Whitebox.unity
+>>>>>>> 509454fbc6ac26d0ef7440b911b4096620553c81
   isLoaded: 1
   isActive: 1
   isSubScene: 0
